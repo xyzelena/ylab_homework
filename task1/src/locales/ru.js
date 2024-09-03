@@ -4,5 +4,10 @@ export default {
         header: 'Header',
       },
 
+      buttons: {
+        btnExit: 'Выйти',
+        btnEnter: 'Войти',
+      },
+
     }
 }
