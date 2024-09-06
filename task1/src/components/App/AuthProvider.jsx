@@ -2,6 +2,7 @@ import { useState } from 'react';
 import AuthContext from '../../contexts/AuthContext.js';
 
 import {
+  setItemStorage,
   getItemStorage,
   clearStorage,
 } from '../../utils/authLocalStorage.js';
