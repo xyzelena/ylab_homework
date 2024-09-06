@@ -14,7 +14,7 @@ const Header = () => {
       <div>
         <header>
           <div className="container">
-            <Link to="/">
+            <Link to="/" className='container_header'>
               {t('baseTextUI.header')}
             </Link>
 

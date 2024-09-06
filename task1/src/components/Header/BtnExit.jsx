@@ -8,7 +8,7 @@ const BtnExit = () => {
   const { logOut } = useAuth();
 
   return (
-    <button type="button" className="" onClick={() => logOut()}>
+    <button type="button" className="btn_exit" onClick={() => logOut()}>
       {t('buttons.btnExit')}
     </button>
   );
