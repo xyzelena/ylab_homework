@@ -1,0 +1,34 @@
+.login_form {
+    max-width: 800px;
+    padding: 50px 70px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+.login_form_header {
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.btnEnter {
+    width: 10em;
+    height: 3em;
+
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    background: #0B63F6;
+}
+
+.btnEnter:hover {
+    background: #003CC5;
+}
+
+.invalid_feedback {
+    display: none;
+    margin-bottom: 1rem;
+    color: red;
+    font-style: italic;
+}
