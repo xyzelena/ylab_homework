@@ -24,3 +24,10 @@ make build
 make start
 ```
 Other commands can be found in the Makefile.
+
+![image](https://github.com/user-attachments/assets/e866041e-3db7-4546-9a8e-a0f68fb944e0)
+
+![image](https://github.com/user-attachments/assets/4492ebab-28f0-4c88-9a21-78e09462a31f)
+
+![image](https://github.com/user-attachments/assets/3a57bae9-f35b-4b37-9954-02406e146675)
+
